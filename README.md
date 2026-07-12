@@ -1,100 +1,55 @@
 <!--
-╔═══════════════════════════════════════════════════════════════════════╗
-║  GitHub Profile · @EvanilsonFreitas                                    ║
-║  Posicionamento: Especialista em Data Science                          ║
-║  Design system: 8-BIT · monocromático (#0D1117) + cobalto (#2563EB)    ║
-╚═══════════════════════════════════════════════════════════════════════╝
+  GitHub Profile - @EvanilsonFreitas
+  Design system 8-BIT - todos os graficos sao SVG proprios em /assets
+  (carregam do proprio GitHub, sem servico externo). Sem emoji.
+  Para editar a arte: rode  python gen_final.py  (ver /assets/README-assets.txt)
 -->
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- HERO · PIXEL BANNER                                               -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:2563EB&height=200&section=header&text=EVANILSON%20FREITAS&fontColor=FFFFFF&fontSize=42&fontAlignY=52&desc=DATA%20SCIENCE%20SPECIALIST&descSize=16&descAlignY=72&rotate=8" width="100%" alt="Banner" />
+<img src="assets/hero.svg" width="100%" alt="Evanilson Freitas - Data Science Specialist" />
 
 <br />
 
-<!-- Fonte pixel 8-bit: Press Start 2P -->
-<a href="https://github.com/EvanilsonFreitas">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=760&height=60&lines=ESPECIALISTA+EM+DATA+SCIENCE;PYTHON+.+SQL+.+MACHINE+LEARNING;POWER+BI+DEVELOPER;DADOS+%3E+DECISOES" alt="Roles" />
-</a>
-
-<br />
-
-```
-        ██████╗  █████╗ ████████╗ █████╗     ███████╗ ██████╗██╗
-        ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝██╔════╝██║
-        ██║  ██║███████║   ██║   ███████║    ███████╗██║     ██║
-        ██║  ██║██╔══██║   ██║   ██╔══██║    ╚════██║██║     ██║
-        ██████╔╝██║  ██║   ██║   ██║  ██║    ███████║╚██████╗██║
-        ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝
-```
-
-<br />
-
-<!-- SOCIAL · badges quadrados (canto reto = 8-bit) -->
-<a href="mailto:Evanilson.pessoal@outlook.com">
-  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=2563EB&labelColor=0D1117" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/evanilson-p-freitas-303889350/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=2563EB&labelColor=0D1117" alt="LinkedIn" />
-</a>
-<a href="https://github.com/EvanilsonFreitas">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=2563EB&labelColor=0D1117" alt="GitHub" />
-</a>
-
-<br /><br />
-
-<!-- STATUS BAR · profile views + FOLLOWING (via API GitHub) + location -->
-<img src="https://komarev.com/ghpvc/?username=EvanilsonFreitas&label=VIEWS&color=2563EB&style=flat-square" alt="Views" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEvanilsonFreitas&query=%24.following&label=FOLLOWING&style=flat-square&color=2563EB&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="Following" />
-<img src="https://img.shields.io/badge/SP%20BRASIL-2563EB?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=2563EB" alt="Location" />
+<a href="https://www.linkedin.com/in/evanilson-p-freitas-303889350/"><img src="assets/logo-linkedin.svg" height="46" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:Evanilson.pessoal@outlook.com"><img src="assets/ic-mail.svg" height="46" alt="Email" /></a>
+&nbsp;
+<a href="https://github.com/EvanilsonFreitas"><img src="assets/logo-github.svg" height="46" alt="GitHub" /></a>
 
 </div>
 
-<br />
-
-```
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-```
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- MANIFESTO                                                         -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-### 🕹️ &nbsp; PRESS START
+### PRESS START
 
-> *"Dados sem contexto são ruído.*
-> *Boa ciência de dados é traduzir esse ruído em direção."*
+> *"Dados sem contexto sao ruido.*
+> *Boa ciencia de dados e traduzir esse ruido em direcao."*
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 01 · SOBRE                                                        -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## <kbd>&nbsp;01&nbsp;</kbd> &nbsp; 👾 &nbsp; PLAYER · SOBRE
+<h2><img src="assets/ic-controller.svg" height="24" alt="" />&nbsp; PLAYER &middot; SOBRE</h2>
 
 <table>
 <tr>
-<td valign="top" width="62%">
+<td valign="top" width="60%">
 
 <br />
 
-Atuo como **Especialista em Data Science**, com foco em transformar grandes volumes de dados em **insights acionáveis** e modelos que sustentam decisões de negócio.
+Atuo como **Especialista em Data Science**, com foco em transformar grandes volumes de dados em **insights acionaveis** e modelos que sustentam decisoes de negocio.
 
-Minha jornada combina **análise estatística**, **engenharia de dados** e **visualização** — passando por dashboards em Power BI, automações em Python e produtos web em Next.js, sempre com olhar de **UX** sobre o resultado final.
+Minha jornada combina **analise estatistica**, **engenharia de dados** e **visualizacao** — dashboards em Power BI, automacoes em Python e produtos web em Next.js, sempre com olhar de **UX** sobre o resultado final.
 
-Acredito que **boa análise é invisível**: o usuário não enxerga o modelo, enxerga a decisão certa.
+Acredito que **boa analise e invisivel**: o usuario nao enxerga o modelo, enxerga a decisao certa.
 
 <br />
 
 </td>
-<td valign="top" width="38%">
+<td valign="top" width="40%">
 
 <br />
 
@@ -102,20 +57,16 @@ Acredito que **boa análise é invisível**: o usuário não enxerga o modelo, e
 PLAYER:   Evanilson Freitas
 CLASSE:   Data Science Specialist
 FOCO:     Analytics & Automation
-ARMAS:    Python · SQL · Power BI
-BASE:     São Paulo, Brasil
-STATUS:   ● Aberto a projetos
+ARMAS:    Python . SQL . Power BI
+BASE:     Sao Paulo, Brasil
+STATUS:   [ON] Aberto a projetos
 ```
 
 </td>
 </tr>
 </table>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 02 · O QUE FAÇO                                                   -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## <kbd>&nbsp;02&nbsp;</kbd> &nbsp; ⚔️ &nbsp; CLASSES · ÁREAS DE ATUAÇÃO
+<h2><img src="assets/ic-sword.svg" height="24" alt="" />&nbsp; CLASSES &middot; AREAS DE ATUACAO</h2>
 
 <table>
 <tr>
@@ -123,19 +74,19 @@ STATUS:   ● Aberto a projetos
 
 <br />
 
-### 🧪 &nbsp; DATA SCIENCE
+### DATA SCIENCE
 
 <sub>
-Modelagem estatística,<br/>
+Modelagem estatistica,<br/>
 machine learning aplicado<br/>
-e análise preditiva para<br/>
-problemas de negócio reais.
+e analise preditiva para<br/>
+problemas de negocio reais.
 </sub>
 
 <br />
 
-`Python` &nbsp;`Pandas`<br/>
-`Scikit-learn` &nbsp;`NumPy`
+`Python` `Pandas`<br/>
+`Scikit-learn` `NumPy`
 
 <br />
 
@@ -144,19 +95,19 @@ problemas de negócio reais.
 
 <br />
 
-### 📊 &nbsp; ANALYTICS & BI
+### ANALYTICS & BI
 
 <sub>
 Dashboards executivos,<br/>
 modelagem dimensional<br/>
 e storytelling com dados<br/>
-para tomada de decisão.
+para tomada de decisao.
 </sub>
 
 <br />
 
-`Power BI` &nbsp;`DAX`<br/>
-`SQL` &nbsp;`Power Query`
+`Power BI` `DAX`<br/>
+`SQL` `Power Query`
 
 <br />
 
@@ -165,19 +116,19 @@ para tomada de decisão.
 
 <br />
 
-### 🔧 &nbsp; DATA ENGINEERING
+### DATA ENGINEERING
 
 <sub>
 Pipelines de ETL,<br/>
-integrações via API<br/>
-e automações que<br/>
-escalam operações.
+integracoes via API<br/>
+e automacoes que<br/>
+escalam operacoes.
 </sub>
 
 <br />
 
-`Python` &nbsp;`SQL`<br/>
-`APIs` &nbsp;`Airflow`
+`Python` `SQL`<br/>
+`APIs` `Airflow`
 
 <br />
 
@@ -185,254 +136,205 @@ escalam operações.
 </tr>
 </table>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 03 · STACK · INVENTORY                                            -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## <kbd>&nbsp;03&nbsp;</kbd> &nbsp; 🎒 &nbsp; INVENTORY · STACK TÉCNICA
-
-<div align="center">
-
-<!-- Grupos = skillicons.dev · Ícones avulsos = cdn.simpleicons.org (mesma altura ~48px) -->
-
-**LINGUAGENS & DADOS**
-
-<br />
-
-<img height="48" src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" alt="Linguagens" />
-<img height="44" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="SQL" />
-<img height="44" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="DAX (Power BI)" />
-
-<br /><br />
-
-**DATA SCIENCE & MACHINE LEARNING**
-
-<br />
-
-<img height="48" src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" alt="ML" />
-<img height="44" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" />
-<img height="44" src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" />
-<img height="44" src="https://cdn.simpleicons.org/scipy/8CAAE6" alt="SciPy" />
-<img height="44" src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" />
-
-<br /><br />
-
-**ANALYTICS & BI**
-
-<br />
-
-<img height="44" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" />
-<img height="44" src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" />
-<img height="44" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" />
-<img height="48" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Postgres" />
-
-<br /><br />
-
-**WEB & PRODUTO**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=dark" alt="Web" />
-
-<br /><br />
-
-**DESIGN · TOOLING · INFRA**
-
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,docker&theme=dark" alt="Tooling" />
-
-</div>
-
-<br />
-
-```
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
-```
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 04 · CURRENTLY · QUEST LOG                                        -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## <kbd>&nbsp;04&nbsp;</kbd> &nbsp; 🗺️ &nbsp; QUEST LOG · EM DESENVOLVIMENTO
-
-```diff
-@@  MISSÕES ATIVAS  @@
-
-+ [██████████] Modelos preditivos aplicados a dados de negócio
-+ [████████░░] Pipelines analíticos com Python + SQL + Power BI
-+ [██████░░░░] Produtos SaaS focados em automação inteligente
-! [████░░░░░░] Estudando MLOps e arquitetura de dados em escala
-# [███░░░░░░░] Explorando IA generativa aplicada a fluxos analíticos
-```
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 05 · PROJETOS · WORLD MAP                                         -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## <kbd>&nbsp;05&nbsp;</kbd> &nbsp; 🏰 &nbsp; WORLD MAP · PROJETOS EM DESTAQUE
+<h2><img src="assets/ic-chest.svg" height="24" alt="" />&nbsp; INVENTORY &middot; STACK TECNICA</h2>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🍒 &nbsp; CreamCherry · Site
+**LINGUAGENS & DADOS**
 
-<sub>
-Plataforma web institucional construída em HTML, CSS e
-JavaScript — foco em performance, acessibilidade e
-experiência visual consistente.
-</sub>
-
-<br /><br />
-
-`HTML` &nbsp;`CSS` &nbsp;`JavaScript`
+`Python` `TypeScript` `JavaScript` `SQL` `DAX`
 
 <br />
 
-**[ ► JOGAR →](https://github.com/EvanilsonFreitas/creamcherry-site)**
+**DATA SCIENCE & ML**
+
+`Pandas` `NumPy` `SciPy` `Scikit-learn` `Jupyter`
+
+<br />
+
+**ANALYTICS & BI**
+
+`Power BI` `Excel` `PostgreSQL` `SQL Server` `Power Query`
 
 </td>
 <td valign="top" width="50%">
 
-### 🔌 &nbsp; CreamCherry · API
+**WEB & PRODUTO**
+
+`Next.js` `React` `Node.js` `Tailwind`
+
+<br />
+
+**DESIGN . TOOLING . INFRA**
+
+`Figma` `Git` `GitHub` `VS Code` `Vercel` `Docker`
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2><img src="assets/ic-map.svg" height="24" alt="" />&nbsp; QUEST LOG &middot; EM DESENVOLVIMENTO</h2>
+
+```diff
+@@  MISSOES ATIVAS  @@
+
++ [##########] Modelos preditivos aplicados a dados de negocio
++ [########--] Pipelines analiticos com Python + SQL + Power BI
++ [######----] Produtos SaaS focados em automacao inteligente
+! [####------] Estudando MLOps e arquitetura de dados em escala
+# [###-------] Explorando IA generativa aplicada a fluxos analiticos
+```
+
+<h2><img src="assets/ic-castle.svg" height="24" alt="" />&nbsp; WORLD MAP &middot; PROJETOS EM DESTAQUE</h2>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### CreamCherry &middot; Site
 
 <sub>
-Backend em Python para a aplicação CreamCherry —
-endpoints REST, autenticação e integração com
+Plataforma web institucional em HTML, CSS e
+JavaScript — foco em performance, acessibilidade
+e experiencia visual consistente.
+</sub>
+
+<br /><br />
+
+`HTML` `CSS` `JavaScript`
+
+<br />
+
+**[ > JOGAR ](https://github.com/EvanilsonFreitas/creamcherry-site)**
+
+</td>
+<td valign="top" width="50%">
+
+### CreamCherry &middot; API
+
+<sub>
+Backend em Python para a aplicacao CreamCherry —
+endpoints REST, autenticacao e integracao com
 camada de dados.
 </sub>
 
 <br /><br />
 
-`Python` &nbsp;`REST` &nbsp;`API`
+`Python` `REST` `API`
 
 <br />
 
-**[ ► JOGAR →](https://github.com/EvanilsonFreitas/creamcherry-api)**
+**[ > JOGAR ](https://github.com/EvanilsonFreitas/creamcherry-api)**
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-### 🎮 &nbsp; Portfólio Pessoal
+### Portfolio Pessoal
 
 <sub>
-Portfólio desenvolvido em Next.js + TypeScript com
-design minimalista — vitrine de projetos, stack e
+Portfolio em Next.js + TypeScript com design
+minimalista — vitrine de projetos, stack e
 canais de contato.
 </sub>
 
 <br /><br />
 
-`Next.js` &nbsp;`TypeScript` &nbsp;`React`
+`Next.js` `TypeScript` `React`
 
 <br />
 
-**[ ► JOGAR →](https://github.com/EvanilsonFreitas/portfolio-evanilson)**
+**[ > JOGAR ](https://github.com/EvanilsonFreitas/portfolio-evanilson)**
 
 </td>
 <td valign="top" width="50%">
 
-### 🐼 &nbsp; Card Product · Panda Clothing
+### Card Product &middot; Panda Clothing
 
 <sub>
-Componente de card de produto para e-commerce —
-estudo de layout, micro-interações e responsividade
-em CSS puro.
+Card de produto para e-commerce — estudo de
+layout, micro-interacoes e responsividade em
+CSS puro.
 </sub>
 
 <br /><br />
 
-`CSS` &nbsp;`HTML` &nbsp;`UI Design`
+`CSS` `HTML` `UI Design`
 
 <br />
 
-**[ ► JOGAR →](https://github.com/EvanilsonFreitas/Card-Product-PandaClothing)**
+**[ > JOGAR ](https://github.com/EvanilsonFreitas/Card-Product-PandaClothing)**
 
 </td>
 </tr>
 </table>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 06 · STATS · SCOREBOARD                                           -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## <kbd>&nbsp;06&nbsp;</kbd> &nbsp; 🏆 &nbsp; SCOREBOARD · ESTATÍSTICAS
+<h2><img src="assets/ic-trophy.svg" height="24" alt="" />&nbsp; SCOREBOARD &middot; ESTATISTICAS</h2>
 
 <div align="center">
 
-<a href="https://github.com/EvanilsonFreitas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EvanilsonFreitas&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Stats" />
-</a>
-<a href="https://github.com/EvanilsonFreitas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanilsonFreitas&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF&langs_count=8" alt="Linguagens" />
-</a>
+<img src="assets/panel-scoreboard.svg" width="48%" alt="Scoreboard: 120 commits, streak 1, recorde 4" />
+&nbsp;
+<img src="assets/panel-achievements.svg" width="48%" alt="Achievements" />
 
 <br /><br />
 
-<a href="https://github.com/EvanilsonFreitas">
-  <img src="https://streak-stats.demolab.com?user=EvanilsonFreitas&theme=dark&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="96%" alt="Streak" />
-</a>
+<img src="assets/panel-toplangs.svg" width="80%" alt="Top languages" />
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 07 · TROPHIES · ACHIEVEMENTS                                      -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## <kbd>&nbsp;07&nbsp;</kbd> &nbsp; 🎖️ &nbsp; ACHIEVEMENTS · CONQUISTAS
-
-<div align="center">
-
-<a href="https://github.com/EvanilsonFreitas">
-  <img src="https://github-profile-trophy.vercel.app/?username=EvanilsonFreitas&theme=darkhub&row=1&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="Conquistas" />
-</a>
-
-</div>
-
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 08 · METODOLOGIA · COMBOS                                         -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-## <kbd>&nbsp;08&nbsp;</kbd> &nbsp; 🎯 &nbsp; COMBO · COMO EU TRABALHO
+<h2><img src="assets/ic-target.svg" height="24" alt="" />&nbsp; COMBO &middot; COMO EU TRABALHO</h2>
 
 <table>
 <tr>
 <td valign="top" width="25%" align="center">
 
-#### 🔍 &nbsp; ENTENDER
+### ENTENDER
 
 <sub>
-Imersão no problema<br/>
-antes da solução.
+Imersao no problema<br/>
+antes da solucao.
 </sub>
 
 </td>
 <td valign="top" width="25%" align="center">
 
-#### 🧩 &nbsp; MODELAR
+### MODELAR
 
 <sub>
 Dados estruturados,<br/>
-hipóteses claras.
+hipoteses claras.
 </sub>
 
 </td>
 <td valign="top" width="25%" align="center">
 
-#### ✅ &nbsp; VALIDAR
+### VALIDAR
 
 <sub>
-Teste estatístico,<br/>
-métricas honestas.
+Teste estatistico,<br/>
+metricas honestas.
 </sub>
 
 </td>
 <td valign="top" width="25%" align="center">
 
-#### 🚀 &nbsp; ENTREGAR
+### ENTREGAR
 
 <sub>
 Visual claro,<br/>
-ação possível.
+acao possivel.
 </sub>
 
 </td>
@@ -441,65 +343,49 @@ ação possível.
 
 <div align="center">
 
-`ENTENDER` ➜ `MODELAR` ➜ `VALIDAR` ➜ `ENTREGAR` &nbsp; **· FATALITY ·**
+`ENTENDER` &gt; `MODELAR` &gt; `VALIDAR` &gt; `ENTREGAR`
 
 </div>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 09 · CONNECT · MULTIPLAYER                                        -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## <kbd>&nbsp;09&nbsp;</kbd> &nbsp; 🌐 &nbsp; MULTIPLAYER · VAMOS CONVERSAR
+<h2><img src="assets/ic-globe.svg" height="24" alt="" />&nbsp; MULTIPLAYER &middot; VAMOS CONVERSAR</h2>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### ➕ &nbsp; ABERTO PARA
+### ABERTO PARA
 
 - Projetos de **Data Science** e modelagem preditiva
-- Soluções de **Analytics & Business Intelligence**
+- Solucoes de **Analytics & Business Intelligence**
 - Desenvolvimento de **produtos SaaS** orientados a dados
-- Consultoria em **automação** e engenharia analítica
-- Colaborações em **pesquisa aplicada**
+- Consultoria em **automacao** e engenharia analitica
+- Colaboracoes em **pesquisa aplicada**
 
 </td>
 <td valign="top" width="50%">
 
-### 📡 &nbsp; CANAIS DE CONTATO
+### CANAIS DE CONTATO
 
 - **Email** — [Evanilson.pessoal@outlook.com](mailto:Evanilson.pessoal@outlook.com)
 - **LinkedIn** — [evanilson-p-freitas](https://www.linkedin.com/in/evanilson-p-freitas-303889350/)
 - **GitHub** — [@EvanilsonFreitas](https://github.com/EvanilsonFreitas)
-- **Localização** — São Paulo, Brasil
+- **Localizacao** — Sao Paulo, Brasil
 
 </td>
 </tr>
 </table>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- FOOTER · GAME OVER                                                -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<br />
-
-<div align="center">
-
-```
-   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-        T H A N K S   F O R   P L A Y I N G  ·  I N S E R T   C O I N
-   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2563EB,100:0D1117&height=120&section=footer&rotate=8" width="100%" alt="Footer" />
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
   <sub>
-    <i>Design e código por <b>Evanilson Freitas</b></i>
+    <b>THANKS FOR PLAYING &middot; INSERT COIN</b>
+    <br /><br />
+    <i>Design e codigo por Evanilson Freitas.</i>
     <br />
-    <i>Construído com foco em clareza, performance e tomada de decisão baseada em dados.</i>
+    <i>Construido com foco em clareza, performance e decisao baseada em dados.</i>
   </sub>
   <br /><br />
 </div>
