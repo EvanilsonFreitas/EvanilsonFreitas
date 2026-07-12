@@ -1,46 +1,64 @@
 <!--
 ╔═══════════════════════════════════════════════════════════════════════╗
-║  GitHub Profile · @EvanilsonFreitas                                   ║
-║  Posicionamento: Especialista em Data Science                         ║
-║  Design system: monocromático (#0D1117) + cobalto (#2563EB)           ║
+║  GitHub Profile · @EvanilsonFreitas                                    ║
+║  Posicionamento: Especialista em Data Science                          ║
+║  Design system: 8-BIT · monocromático (#0D1117) + cobalto (#2563EB)    ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 -->
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- HERO                                                              -->
+<!-- HERO · PIXEL BANNER                                               -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=220&section=header&text=Evanilson%20Freitas&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Data%20Science%20%E2%80%A2%20Analytics%20%E2%80%A2%20Automation&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:2563EB&height=200&section=header&text=EVANILSON%20FREITAS&fontColor=FFFFFF&fontSize=42&fontAlignY=52&desc=DATA%20SCIENCE%20SPECIALIST&descSize=16&descAlignY=72&rotate=8" width="100%" alt="Banner" />
 
 <br />
 
+<!-- Fonte pixel 8-bit: Press Start 2P -->
 <a href="https://github.com/EvanilsonFreitas">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=720&height=48&lines=Especialista+em+Data+Science;Cientista+de+Dados+%7C+Power+BI+Developer;Python+%E2%80%A2+SQL+%E2%80%A2+Machine+Learning;Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas" alt="Roles typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=760&height=60&lines=ESPECIALISTA+EM+DATA+SCIENCE;PYTHON+.+SQL+.+MACHINE+LEARNING;POWER+BI+DEVELOPER;DADOS+%3E+DECISOES" alt="Roles" />
+</a>
+
+<br />
+
+```
+        ██████╗  █████╗ ████████╗ █████╗     ███████╗ ██████╗██╗
+        ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝██╔════╝██║
+        ██║  ██║███████║   ██║   ███████║    ███████╗██║     ██║
+        ██║  ██║██╔══██║   ██║   ██╔══██║    ╚════██║██║     ██║
+        ██████╔╝██║  ██║   ██║   ██║  ██║    ███████║╚██████╗██║
+        ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝
+```
+
+<br />
+
+<!-- SOCIAL · badges quadrados (canto reto = 8-bit) -->
+<a href="mailto:Evanilson.pessoal@outlook.com">
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=2563EB&labelColor=0D1117" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/evanilson-p-freitas-303889350/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=2563EB&labelColor=0D1117" alt="LinkedIn" />
+</a>
+<a href="https://github.com/EvanilsonFreitas">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=2563EB&labelColor=0D1117" alt="GitHub" />
 </a>
 
 <br /><br />
 
-<p>
-  <a href="mailto:Evanilson.pessoal@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2563EB&labelColor=0D1117" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/evanilson-p-freitas-303889350/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2563EB&labelColor=0D1117" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/EvanilsonFreitas">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2563EB&labelColor=0D1117" alt="GitHub" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=EvanilsonFreitas&label=Profile%20views&color=2563EB&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/EvanilsonFreitas?label=Followers&style=flat-square&color=2563EB&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/badge/Location-S%C3%A3o%20Paulo%2C%20BR-2563EB?style=flat-square&labelColor=0D1117" alt="Location" />
-</p>
+<!-- STATUS BAR · profile views + FOLLOWING (via API GitHub) + location -->
+<img src="https://komarev.com/ghpvc/?username=EvanilsonFreitas&label=VIEWS&color=2563EB&style=flat-square" alt="Views" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEvanilsonFreitas&query=%24.following&label=FOLLOWING&style=flat-square&color=2563EB&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="Following" />
+<img src="https://img.shields.io/badge/SP%20BRASIL-2563EB?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=2563EB" alt="Location" />
 
 </div>
+
+<br />
+
+```
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+```
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- MANIFESTO                                                         -->
@@ -48,12 +66,10 @@
 
 <div align="center">
 
-###
+### 🕹️ &nbsp; PRESS START
 
 > *"Dados sem contexto são ruído.*
 > *Boa ciência de dados é traduzir esse ruído em direção."*
-
-###
 
 </div>
 
@@ -61,7 +77,7 @@
 <!-- 01 · SOBRE                                                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <kbd>&nbsp;01&nbsp;</kbd> &nbsp; Sobre
+## <kbd>&nbsp;01&nbsp;</kbd> &nbsp; 👾 &nbsp; PLAYER · SOBRE
 
 <table>
 <tr>
@@ -83,12 +99,12 @@ Acredito que **boa análise é invisível**: o usuário não enxerga o modelo, e
 <br />
 
 ```yaml
-nome:      Evanilson Freitas
-papel:     Data Science Specialist
-foco:      Analytics & Automation
-stack:     Python · SQL · Power BI
-local:     São Paulo, Brasil
-status:    Aberto a projetos
+PLAYER:   Evanilson Freitas
+CLASSE:   Data Science Specialist
+FOCO:     Analytics & Automation
+ARMAS:    Python · SQL · Power BI
+BASE:     São Paulo, Brasil
+STATUS:   ● Aberto a projetos
 ```
 
 </td>
@@ -99,7 +115,7 @@ status:    Aberto a projetos
 <!-- 02 · O QUE FAÇO                                                   -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <kbd>&nbsp;02&nbsp;</kbd> &nbsp; Áreas de atuação
+## <kbd>&nbsp;02&nbsp;</kbd> &nbsp; ⚔️ &nbsp; CLASSES · ÁREAS DE ATUAÇÃO
 
 <table>
 <tr>
@@ -107,7 +123,7 @@ status:    Aberto a projetos
 
 <br />
 
-###  Data Science
+### 🧪 &nbsp; DATA SCIENCE
 
 <sub>
 Modelagem estatística,<br/>
@@ -128,7 +144,7 @@ problemas de negócio reais.
 
 <br />
 
-###  Analytics & BI
+### 📊 &nbsp; ANALYTICS & BI
 
 <sub>
 Dashboards executivos,<br/>
@@ -149,7 +165,7 @@ para tomada de decisão.
 
 <br />
 
-###  Data Engineering
+### 🔧 &nbsp; DATA ENGINEERING
 
 <sub>
 Pipelines de ETL,<br/>
@@ -170,105 +186,93 @@ escalam operações.
 </table>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 03 · STACK                                                        -->
+<!-- 03 · STACK · INVENTORY                                            -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <kbd>&nbsp;03&nbsp;</kbd> &nbsp; Stack técnica
+## <kbd>&nbsp;03&nbsp;</kbd> &nbsp; 🎒 &nbsp; INVENTORY · STACK TÉCNICA
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-####  Linguagens & Dados
+<!-- Grupos = skillicons.dev · Ícones avulsos = cdn.simpleicons.org (mesma altura ~48px) -->
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/DAX-0D1117?style=flat-square&logo=microsoft&logoColor=2563EB" />
-</p>
+**LINGUAGENS & DADOS**
 
-####  Data Science & ML
+<br />
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=2563EB" />
-</p>
+<img height="48" src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" alt="Linguagens" />
+<img height="44" src="https://cdn.simpleicons.org/postgresql/4169E1" alt="SQL" />
+<img height="44" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="DAX (Power BI)" />
 
-####  Analytics & BI
+<br /><br />
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/SQL%20Server-0D1117?style=flat-square&logo=microsoftsqlserver&logoColor=2563EB" />
-</p>
+**DATA SCIENCE & MACHINE LEARNING**
 
-</td>
-<td valign="top" width="50%">
+<br />
 
-####  Web & Produto
+<img height="48" src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" alt="ML" />
+<img height="44" src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" />
+<img height="44" src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" />
+<img height="44" src="https://cdn.simpleicons.org/scipy/8CAAE6" alt="SciPy" />
+<img height="44" src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" />
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=2563EB" />
-</p>
+<br /><br />
 
-####  Design & UX
+**ANALYTICS & BI**
 
-<p>
-  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/UX%20Design-0D1117?style=flat-square&logo=adobexd&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-0D1117?style=flat-square&logo=adobexd&logoColor=2563EB" />
-</p>
+<br />
 
-####  Tooling & Infra
+<img height="44" src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" />
+<img height="44" src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" />
+<img height="44" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" />
+<img height="48" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Postgres" />
 
-<p>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2563EB" />
-</p>
+<br /><br />
 
-</td>
-</tr>
-</table>
+**WEB & PRODUTO**
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 04 · CURRENTLY                                                    -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=dark" alt="Web" />
 
-## <kbd>&nbsp;04&nbsp;</kbd> &nbsp; Em desenvolvimento
+<br /><br />
 
-```diff
-@@ Foco atual @@
+**DESIGN · TOOLING · INFRA**
 
-+ Modelos preditivos aplicados a dados de negócio
-+ Pipelines analíticos com Python + SQL + Power BI
-+ Produtos SaaS focados em automação inteligente
-! Estudando MLOps e arquitetura de dados em escala
-# Explorando IA generativa aplicada a fluxos analíticos
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,docker&theme=dark" alt="Tooling" />
+
+</div>
+
+<br />
+
+```
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
 ```
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 05 · PROJETOS                                                     -->
+<!-- 04 · CURRENTLY · QUEST LOG                                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <kbd>&nbsp;05&nbsp;</kbd> &nbsp; Projetos em destaque
+## <kbd>&nbsp;04&nbsp;</kbd> &nbsp; 🗺️ &nbsp; QUEST LOG · EM DESENVOLVIMENTO
+
+```diff
+@@  MISSÕES ATIVAS  @@
+
++ [██████████] Modelos preditivos aplicados a dados de negócio
++ [████████░░] Pipelines analíticos com Python + SQL + Power BI
++ [██████░░░░] Produtos SaaS focados em automação inteligente
+! [████░░░░░░] Estudando MLOps e arquitetura de dados em escala
+# [███░░░░░░░] Explorando IA generativa aplicada a fluxos analíticos
+```
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- 05 · PROJETOS · WORLD MAP                                         -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <kbd>&nbsp;05&nbsp;</kbd> &nbsp; 🏰 &nbsp; WORLD MAP · PROJETOS EM DESTAQUE
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-###  CreamCherry · Site
+### 🍒 &nbsp; CreamCherry · Site
 
 <sub>
 Plataforma web institucional construída em HTML, CSS e
@@ -282,12 +286,12 @@ experiência visual consistente.
 
 <br />
 
-**[ Ver repositório →](https://github.com/EvanilsonFreitas/creamcherry-site)**
+**[ ► JOGAR →](https://github.com/EvanilsonFreitas/creamcherry-site)**
 
 </td>
 <td valign="top" width="50%">
 
-###  CreamCherry · API
+### 🔌 &nbsp; CreamCherry · API
 
 <sub>
 Backend em Python para a aplicação CreamCherry —
@@ -301,14 +305,14 @@ camada de dados.
 
 <br />
 
-**[ Ver repositório →](https://github.com/EvanilsonFreitas/creamcherry-api)**
+**[ ► JOGAR →](https://github.com/EvanilsonFreitas/creamcherry-api)**
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-###  Portfólio Pessoal
+### 🎮 &nbsp; Portfólio Pessoal
 
 <sub>
 Portfólio desenvolvido em Next.js + TypeScript com
@@ -322,12 +326,12 @@ canais de contato.
 
 <br />
 
-**[ Ver repositório →](https://github.com/EvanilsonFreitas/portfolio-evanilson)**
+**[ ► JOGAR →](https://github.com/EvanilsonFreitas/portfolio-evanilson)**
 
 </td>
 <td valign="top" width="50%">
 
-###  Card Product · Panda Clothing
+### 🐼 &nbsp; Card Product · Panda Clothing
 
 <sub>
 Componente de card de produto para e-commerce —
@@ -341,60 +345,60 @@ em CSS puro.
 
 <br />
 
-**[ Ver repositório →](https://github.com/EvanilsonFreitas/Card-Product-PandaClothing)**
+**[ ► JOGAR →](https://github.com/EvanilsonFreitas/Card-Product-PandaClothing)**
 
 </td>
 </tr>
 </table>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 06 · STATS                                                        -->
+<!-- 06 · STATS · SCOREBOARD                                           -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <kbd>&nbsp;06&nbsp;</kbd> &nbsp; Estatísticas
+## <kbd>&nbsp;06&nbsp;</kbd> &nbsp; 🏆 &nbsp; SCOREBOARD · ESTATÍSTICAS
 
 <div align="center">
 
 <a href="https://github.com/EvanilsonFreitas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EvanilsonFreitas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EvanilsonFreitas&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Stats" />
 </a>
 <a href="https://github.com/EvanilsonFreitas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanilsonFreitas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanilsonFreitas&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF&langs_count=8" alt="Linguagens" />
 </a>
 
 <br /><br />
 
 <a href="https://github.com/EvanilsonFreitas">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvanilsonFreitas&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Gráfico de atividade" />
+  <img src="https://streak-stats.demolab.com?user=EvanilsonFreitas&theme=dark&hide_border=true&background=0D1117&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="96%" alt="Streak" />
 </a>
 
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 07 · TROPHIES                                                     -->
+<!-- 07 · TROPHIES · ACHIEVEMENTS                                      -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <kbd>&nbsp;07&nbsp;</kbd> &nbsp; Conquistas
+## <kbd>&nbsp;07&nbsp;</kbd> &nbsp; 🎖️ &nbsp; ACHIEVEMENTS · CONQUISTAS
 
 <div align="center">
 
 <a href="https://github.com/EvanilsonFreitas">
-  <img src="https://github-profile-trophy.vercel.app/?username=EvanilsonFreitas&theme=tokyonight&row=1&column=7&margin-w=8&margin-h=8" alt="Conquistas no GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EvanilsonFreitas&theme=darkhub&row=1&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="Conquistas" />
 </a>
 
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 08 · METODOLOGIA                                                  -->
+<!-- 08 · METODOLOGIA · COMBOS                                         -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <kbd>&nbsp;08&nbsp;</kbd> &nbsp; Como eu trabalho
+## <kbd>&nbsp;08&nbsp;</kbd> &nbsp; 🎯 &nbsp; COMBO · COMO EU TRABALHO
 
 <table>
 <tr>
 <td valign="top" width="25%" align="center">
 
-####  Entender
+#### 🔍 &nbsp; ENTENDER
 
 <sub>
 Imersão no problema<br/>
@@ -404,7 +408,7 @@ antes da solução.
 </td>
 <td valign="top" width="25%" align="center">
 
-####  Modelar
+#### 🧩 &nbsp; MODELAR
 
 <sub>
 Dados estruturados,<br/>
@@ -414,7 +418,7 @@ hipóteses claras.
 </td>
 <td valign="top" width="25%" align="center">
 
-####  Validar
+#### ✅ &nbsp; VALIDAR
 
 <sub>
 Teste estatístico,<br/>
@@ -424,7 +428,7 @@ métricas honestas.
 </td>
 <td valign="top" width="25%" align="center">
 
-####  Entregar
+#### 🚀 &nbsp; ENTREGAR
 
 <sub>
 Visual claro,<br/>
@@ -435,17 +439,23 @@ ação possível.
 </tr>
 </table>
 
+<div align="center">
+
+`ENTENDER` ➜ `MODELAR` ➜ `VALIDAR` ➜ `ENTREGAR` &nbsp; **· FATALITY ·**
+
+</div>
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 09 · CONNECT                                                      -->
+<!-- 09 · CONNECT · MULTIPLAYER                                        -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## <kbd>&nbsp;09&nbsp;</kbd> &nbsp; Vamos conversar
+## <kbd>&nbsp;09&nbsp;</kbd> &nbsp; 🌐 &nbsp; MULTIPLAYER · VAMOS CONVERSAR
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-###  Aberto para
+### ➕ &nbsp; ABERTO PARA
 
 - Projetos de **Data Science** e modelagem preditiva
 - Soluções de **Analytics & Business Intelligence**
@@ -456,7 +466,7 @@ ação possível.
 </td>
 <td valign="top" width="50%">
 
-###  Canais de contato
+### 📡 &nbsp; CANAIS DE CONTATO
 
 - **Email** — [Evanilson.pessoal@outlook.com](mailto:Evanilson.pessoal@outlook.com)
 - **LinkedIn** — [evanilson-p-freitas](https://www.linkedin.com/in/evanilson-p-freitas-303889350/)
@@ -468,12 +478,22 @@ ação possível.
 </table>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- FOOTER                                                            -->
+<!-- FOOTER · GAME OVER                                                -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />
+<div align="center">
+
+```
+   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+        T H A N K S   F O R   P L A Y I N G  ·  I N S E R T   C O I N
+   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2563EB,100:0D1117&height=120&section=footer&rotate=8" width="100%" alt="Footer" />
 
 <div align="center">
   <sub>
