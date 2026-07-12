@@ -7,15 +7,15 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Evanilson Freitas - Data Science Specialist" />
+<img src="assets/hero.gif" width="100%" alt="Evanilson Freitas - Data Science Specialist" />
 
-<br />
+<br /><br />
 
-<a href="https://www.linkedin.com/in/evanilson-p-freitas-303889350/"><img src="assets/logo-linkedin.svg" height="46" alt="LinkedIn" /></a>
-&nbsp;
-<a href="mailto:Evanilson.pessoal@outlook.com"><img src="assets/ic-mail.svg" height="46" alt="Email" /></a>
-&nbsp;
-<a href="https://github.com/EvanilsonFreitas"><img src="assets/logo-github.svg" height="46" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/evanilson-p-freitas-303889350/"><img src="assets/contact-linkedin.svg" height="32" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:Evanilson.pessoal@outlook.com"><img src="assets/contact-email.svg" height="32" alt="Email" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/EvanilsonFreitas"><img src="assets/contact-github.svg" height="32" alt="GitHub" /></a>
 
 </div>
 
@@ -85,11 +85,6 @@ problemas de negocio reais.
 
 <br />
 
-`Python` `Pandas`<br/>
-`Scikit-learn` `NumPy`
-
-<br />
-
 </td>
 <td width="33%" align="center" valign="top">
 
@@ -106,11 +101,6 @@ para tomada de decisao.
 
 <br />
 
-`Power BI` `DAX`<br/>
-`SQL` `Power Query`
-
-<br />
-
 </td>
 <td width="33%" align="center" valign="top">
 
@@ -124,11 +114,6 @@ integracoes via API<br/>
 e automacoes que<br/>
 escalam operacoes.
 </sub>
-
-<br />
-
-`Python` `SQL`<br/>
-`APIs` `Airflow`
 
 <br />
 
@@ -282,13 +267,11 @@ CSS puro.
 
 <div align="center">
 
-<img src="assets/panel-scoreboard.svg" width="48%" alt="Scoreboard: 120 commits, streak 1, recorde 4" />
-&nbsp;
-<img src="assets/panel-achievements.svg" width="48%" alt="Achievements" />
+<img src="assets/panel-scoreboard.svg" width="70%" alt="Scoreboard: 120 commits, streak 1, recorde 4" />
 
 <br /><br />
 
-<img src="assets/panel-toplangs.svg" width="80%" alt="Top languages" />
+<img src="assets/panel-toplangs.svg" width="70%" alt="Top languages" />
 
 </div>
 
