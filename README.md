@@ -7,26 +7,7 @@
 
 <div align="center">
 
-<img src="assets/hero.gif" width="100%" alt="Evanilson Freitas - Data Science Specialist" />
-
-<br /><br />
-
-<a href="https://www.linkedin.com/in/evanilson-p-freitas-303889350/"><img src="assets/contact-linkedin.svg" height="32" alt="LinkedIn" /></a>
-&nbsp;&nbsp;
-<a href="mailto:Evanilson.pessoal@outlook.com"><img src="assets/contact-email.svg" height="32" alt="Email" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/EvanilsonFreitas"><img src="assets/contact-github.svg" height="32" alt="GitHub" /></a>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<div align="center">
-
-### PRESS START
-
-> *"Dados sem contexto sao ruido.*
-> *Boa ciencia de dados e traduzir esse ruido em direcao."*
+<img src="assets/hero.gif" width="100%" alt="Evanilson Freitas, Data Science Specialist" />
 
 </div>
 
@@ -40,11 +21,11 @@
 
 <br />
 
-Atuo como **Especialista em Data Science**, com foco em transformar grandes volumes de dados em **insights acionaveis** e modelos que sustentam decisoes de negocio.
+Sou **Especialista em Data Science** e gosto mesmo é de pegar grandes volumes de dados e transformar em algo útil pro negócio. No fim, tudo isso serve pra uma coisa: ajudar a decidir melhor.
 
-Minha jornada combina **analise estatistica**, **engenharia de dados** e **visualizacao** — dashboards em Power BI, automacoes em Python e produtos web em Next.js, sempre com olhar de **UX** sobre o resultado final.
+No dia a dia eu misturo **análise estatística**, **engenharia de dados** e **visualização**. Já construí dashboards em Power BI, automações em Python e produtos web em Next.js, sempre pensando na experiência de quem vai usar.
 
-Acredito que **boa analise e invisivel**: o usuario nao enxerga o modelo, enxerga a decisao certa.
+Pra mim, boa análise é invisível. O usuário não enxerga o modelo, ele enxerga a decisão certa.
 
 <br />
 
@@ -62,6 +43,14 @@ BASE:     Sao Paulo, Brasil
 STATUS:   [ON] Aberto a projetos
 ```
 
+<div align="center">
+<a href="https://www.linkedin.com/in/evanilson-p-freitas-303889350/"><img src="assets/contact-linkedin.svg" height="30" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:Evanilson.pessoal@outlook.com"><img src="assets/contact-email.svg" height="30" alt="Email" /></a>
+&nbsp;
+<a href="https://github.com/EvanilsonFreitas"><img src="assets/contact-github.svg" height="30" alt="GitHub" /></a>
+</div>
+
 </td>
 </tr>
 </table>
@@ -77,10 +66,10 @@ STATUS:   [ON] Aberto a projetos
 ### DATA SCIENCE
 
 <sub>
-Modelagem estatistica,<br/>
+Modelagem estatística,<br/>
 machine learning aplicado<br/>
-e analise preditiva para<br/>
-problemas de negocio reais.
+e análise preditiva para<br/>
+problemas reais do negócio.
 </sub>
 
 <br />
@@ -96,7 +85,7 @@ problemas de negocio reais.
 Dashboards executivos,<br/>
 modelagem dimensional<br/>
 e storytelling com dados<br/>
-para tomada de decisao.
+pra tomada de decisão.
 </sub>
 
 <br />
@@ -110,9 +99,9 @@ para tomada de decisao.
 
 <sub>
 Pipelines de ETL,<br/>
-integracoes via API<br/>
-e automacoes que<br/>
-escalam operacoes.
+integrações via API<br/>
+e automações que<br/>
+escalam a operação.
 </sub>
 
 <br />
@@ -137,7 +126,7 @@ escalam operacoes.
 
 **DATA SCIENCE & ML**
 
-`Pandas` `NumPy` `SciPy` `Scikit-learn` `Jupyter`
+`Pandas` `NumPy` `SciPy` `Sklearn` `Jupyter`
 
 <br />
 
@@ -167,13 +156,13 @@ escalam operacoes.
 <h2><img src="assets/ic-map.svg" height="24" alt="" />&nbsp; QUEST LOG &middot; EM DESENVOLVIMENTO</h2>
 
 ```diff
-@@  MISSOES ATIVAS  @@
+@@  NO QUE ESTOU MEXENDO AGORA  @@
 
-+ [##########] Modelos preditivos aplicados a dados de negocio
-+ [########--] Pipelines analiticos com Python + SQL + Power BI
-+ [######----] Produtos SaaS focados em automacao inteligente
-! [####------] Estudando MLOps e arquitetura de dados em escala
-# [###-------] Explorando IA generativa aplicada a fluxos analiticos
++ [##########] Modelos preditivos aplicados a dados de negócio
++ [########..] Pipelines analíticos juntando Python, SQL e Power BI
++ [######....] Produtos SaaS voltados pra automação inteligente
+! [####......] Cavando MLOps e arquitetura de dados em escala
+# [###.......] Brincando com IA generativa dentro de fluxos analíticos
 ```
 
 <h2><img src="assets/ic-castle.svg" height="24" alt="" />&nbsp; WORLD MAP &middot; PROJETOS EM DESTAQUE</h2>
@@ -185,9 +174,9 @@ escalam operacoes.
 ### CreamCherry &middot; Site
 
 <sub>
-Plataforma web institucional em HTML, CSS e
-JavaScript — foco em performance, acessibilidade
-e experiencia visual consistente.
+Plataforma web institucional feita em HTML, CSS e
+JavaScript. Foco em performance, acessibilidade e
+um visual bem consistente.
 </sub>
 
 <br /><br />
@@ -204,9 +193,9 @@ e experiencia visual consistente.
 ### CreamCherry &middot; API
 
 <sub>
-Backend em Python para a aplicacao CreamCherry —
-endpoints REST, autenticacao e integracao com
-camada de dados.
+Backend em Python da aplicação CreamCherry.
+Endpoints REST, autenticação e integração com
+a camada de dados.
 </sub>
 
 <br /><br />
@@ -222,12 +211,12 @@ camada de dados.
 <tr>
 <td valign="top" width="50%">
 
-### Portfolio Pessoal
+### Portfólio Pessoal
 
 <sub>
-Portfolio em Next.js + TypeScript com design
-minimalista — vitrine de projetos, stack e
-canais de contato.
+Portfólio em Next.js e TypeScript com design
+minimalista. Uma vitrine dos projetos, da stack
+e dos canais de contato.
 </sub>
 
 <br /><br />
@@ -244,9 +233,9 @@ canais de contato.
 ### Card Product &middot; Panda Clothing
 
 <sub>
-Card de produto para e-commerce — estudo de
-layout, micro-interacoes e responsividade em
-CSS puro.
+Card de produto pra loja online. Um estudo de
+layout, microinterações e responsividade feito
+só com CSS.
 </sub>
 
 <br /><br />
@@ -286,8 +275,8 @@ CSS puro.
 ### ENTENDER
 
 <sub>
-Imersao no problema<br/>
-antes da solucao.
+Mergulhar no problema<br/>
+antes de sair codando.
 </sub>
 
 </td>
@@ -296,8 +285,8 @@ antes da solucao.
 ### MODELAR
 
 <sub>
-Dados estruturados,<br/>
-hipoteses claras.
+Dados estruturados<br/>
+e hipóteses claras.
 </sub>
 
 </td>
@@ -306,8 +295,8 @@ hipoteses claras.
 ### VALIDAR
 
 <sub>
-Teste estatistico,<br/>
-metricas honestas.
+Teste estatístico<br/>
+e métricas honestas.
 </sub>
 
 </td>
@@ -316,8 +305,8 @@ metricas honestas.
 ### ENTREGAR
 
 <sub>
-Visual claro,<br/>
-acao possivel.
+Visual claro<br/>
+e ação que dá pra tomar.
 </sub>
 
 </td>
@@ -341,20 +330,20 @@ acao possivel.
 ### ABERTO PARA
 
 - Projetos de **Data Science** e modelagem preditiva
-- Solucoes de **Analytics & Business Intelligence**
-- Desenvolvimento de **produtos SaaS** orientados a dados
-- Consultoria em **automacao** e engenharia analitica
-- Colaboracoes em **pesquisa aplicada**
+- Soluções de **Analytics & Business Intelligence**
+- Desenvolvimento de **produtos SaaS** movidos a dados
+- Consultoria em **automação** e engenharia analítica
+- Parcerias em **pesquisa aplicada**
 
 </td>
 <td valign="top" width="50%">
 
 ### CANAIS DE CONTATO
 
-- **Email** — [Evanilson.pessoal@outlook.com](mailto:Evanilson.pessoal@outlook.com)
-- **LinkedIn** — [evanilson-p-freitas](https://www.linkedin.com/in/evanilson-p-freitas-303889350/)
-- **GitHub** — [@EvanilsonFreitas](https://github.com/EvanilsonFreitas)
-- **Localizacao** — Sao Paulo, Brasil
+- **Email:** [Evanilson.pessoal@outlook.com](mailto:Evanilson.pessoal@outlook.com)
+- **LinkedIn:** [evanilson p freitas](https://www.linkedin.com/in/evanilson-p-freitas-303889350/)
+- **GitHub:** [@EvanilsonFreitas](https://github.com/EvanilsonFreitas)
+- **Onde estou:** São Paulo, Brasil
 
 </td>
 </tr>
@@ -366,9 +355,9 @@ acao possivel.
   <sub>
     <b>THANKS FOR PLAYING &middot; INSERT COIN</b>
     <br /><br />
-    <i>Design e codigo por Evanilson Freitas.</i>
+    <i>Design e código por Evanilson Freitas.</i>
     <br />
-    <i>Construido com foco em clareza, performance e decisao baseada em dados.</i>
+    <i>Feito com foco em clareza, performance e decisão baseada em dados.</i>
   </sub>
   <br /><br />
 </div>
